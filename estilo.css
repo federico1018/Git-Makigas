@@ -14,6 +14,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-color: thistle;
 }
 header {
   width: 100%;
